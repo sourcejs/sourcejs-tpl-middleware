@@ -1,0 +1,10 @@
+{
+  "name": "sourcejs-tpl-middleware",
+  "version": "0.4.0",
+  "description": "Demo of basic SourceJS Middleware structure.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourcejs/sourcejs-tpl-middleware.git"
+  },
+  "homepage": "https://github.com/sourcejs/sourcejs-tpl-middleware"
+}
