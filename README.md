@@ -17,3 +17,4 @@ After restarting your app, plugin will be loaded automatically. To disable it, r
 ## More examples
 
 * https://github.com/sourcejs/sourcejs-jade
+* https://github.com/sourcejs/sourcejs-smiles
