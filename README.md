@@ -12,7 +12,7 @@ To install middleware, run npm command in `sourcejs/user` folder:
 npm install sourcejs-tpl-plugin --save
 ```
 
-After restarting your app, plugin will be loaded automatically. To disable it, remove npm module and restart the app.
+After restarting your app, middleware will be loaded automatically. To disable it, remove npm module and restart the app.
 
 ## More examples
 
