@@ -1,8 +1,10 @@
 # SourceJS Plugin template
 
-Demo of basic SourceJS Middleware structure.
+Demo of basic SourceJS Middleware structure. Read more about Middleware development in docs http://sourcejs.com/docs/api/plugins.
 
 Compatible with [SourceJS](http://sourcejs.com) ~0.4.0.
+
+To create new SourceJS Middleware, we recommend using the official generator - https://github.com/sourcejs/generator-sourcejs.
 
 ## Middleware install instructions example
 
