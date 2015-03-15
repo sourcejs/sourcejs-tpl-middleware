@@ -6,5 +6,8 @@
     "type": "git",
     "url": "https://github.com/sourcejs/sourcejs-tpl-middleware.git"
   },
-  "homepage": "https://github.com/sourcejs/sourcejs-tpl-middleware"
+  "homepage": "https://github.com/sourcejs/sourcejs-tpl-middleware",
+  "dependencies": {
+    "deep-extend": "^0.3.2"
+  }
 }
